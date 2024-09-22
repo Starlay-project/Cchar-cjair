@@ -37,5 +37,13 @@ Note
 I’m not sure why I’m uploading this to GitHub, but here it is!
 
 incomplite work op
+code in cchar-lang 
+.gobul();
+Gobul(Stp);
+fn(){
+    let x = 5-8+90;
+    printnl(x);
+    return 0;
+}
 
 
