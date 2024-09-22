@@ -1,0 +1,7 @@
+.gobul();
+Gobul(Stp);
+fn(){
+    let x = 69+90;
+    printnl(x);
+    return 0;
+}
