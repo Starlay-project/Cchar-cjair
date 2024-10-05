@@ -1,6 +1,6 @@
  # Cchar-Cjair
 
-Cchar and Cjair are programming languages similar to Rust and C++. This project includes a lexer for Cchar, which is 40% complete. The lexer for Cjair has not been started yet.
+Cchar and Cjair are programming languages similar to Rust and C++. This project includes a lexer for Cchar, which is 40% complete. The lexer for Cjair has not been started yet. by Elite_OG tarun
 
 ## Getting Started
 
